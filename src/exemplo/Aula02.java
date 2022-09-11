@@ -1,3 +1,5 @@
+package exemplo;
+
 public class Aula02 {
     //psvm autocomplete
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 package Ted05;
-
+//Renato Serrano
 public class ted5 {
     public static void main(String[] args) {
         int i = 1;
